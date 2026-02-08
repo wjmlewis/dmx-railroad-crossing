@@ -4,6 +4,13 @@ I'm making this project as a kids event near me is putting on a 4 day club with 
 
 Talking of DMX controllers, this project can be used via the WLED app, a web server or DMX!
 
+<img width="956" height="440" alt="image" src="https://github.com/user-attachments/assets/72eb417e-953a-4ed9-858f-c7c0d0f801e7" />
+
+<img width="893" height="546" alt="image" src="https://github.com/user-attachments/assets/56f835d2-e107-405c-90ee-fc337a98280f" />
+
+
+
+
 And heres the Bill of Materials: (the quantity is the amount i'll actually be using)
 
 12V to 5v 10A Step down (1pcs)
