@@ -8,6 +8,9 @@ Talking of DMX controllers, this project can be used via the WLED app, a web ser
 
 <img width="893" height="546" alt="image" src="https://github.com/user-attachments/assets/56f835d2-e107-405c-90ee-fc337a98280f" />
 
+Here's the wiring diagram as well!
+
+<img width="1103" height="659" alt="image" src="https://github.com/user-attachments/assets/05dee017-e628-4d1b-9e9c-f3d93fe56ff6" />
 
 
 
